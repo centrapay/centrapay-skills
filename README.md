@@ -20,4 +20,4 @@ Or copy the contents of `SKILL.md` directly into your project context.
 
 ## Links
 
-- [Documentation](https://docs.centrapay.com/)
+- [Centrapay Documentation](https://docs.centrapay.com/)
